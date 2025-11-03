@@ -20,6 +20,16 @@
 - [Contributing](./CONTRIBUTING.md)
 - [License](./LICENSE)
 
+- ---
+
+## 👤 Author
+**HederaSM**  
+Developed and maintained by [@PatrickvHeijningen](https://github.com/PatrickvHeijningen)
+
+📧 info@hederasm.com  
+🌐 [https://hederasm.com](https://hederasm.com)
+
+
 ---
 
 **© 2025 HederaSM. All rights reserved.**
