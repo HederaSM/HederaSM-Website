@@ -9,11 +9,11 @@
 
 ## Phase 2 — Core Platform
 - [ ] Role-based auth (Admin, Support, Mod, Buyer, User)
-- [ ] React dashboard (React Bits + Tailwind + shadcn/ui)
+- [ ] Angular dashboard (TailwindCSS + shadcn/ui)
 - [ ] Subscription management
 - [ ] Email automation workspace
 
 ## Phase 3 — Public Beta
 - [ ] Onboarding & billing
 - [ ] Analytics
-- [ ] Vercel production launch
+- [ ] Hetzner Cloud production deployment
