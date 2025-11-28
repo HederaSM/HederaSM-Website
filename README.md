@@ -25,10 +25,8 @@ This repository contains public documentation only. The codebase is **closed-sou
 
 **Infrastructure**
 - Hetzner Cloud (server + database)
-- Nginx reverse proxy + SSL
-- PM2 process manager
 - Cloudflare (DNS + CDN + security)
-- Automatic backups + Fail2ban + UFW firewall
+- Automatic backups
 
 ---
 
