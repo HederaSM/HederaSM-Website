@@ -32,14 +32,6 @@ This repository contains public documentation only. The codebase is **closed-sou
 
 ---
 
-## Public Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [HederaSM-Website](https://github.com/HederaSM/HederaSM-Website) | Public documentation, roadmap, and updates |
-
----
-
 ## Documentation
 
 - [Roadmap](./docs/ROADMAP.md)
